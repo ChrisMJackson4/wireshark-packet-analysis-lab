@@ -66,7 +66,8 @@ The screenshot below shows a TCP connection being established using the three-wa
 
 This connection was established over TCP port 443 before TLS-encrypted communication began.
 
-<img width="1475" height="910" alt="image" src="https://github.com/user-attachments/assets/f743d7a6-f827-45e2-a6d4-036136f26b36" />
+<img width="1023" height="886" alt="Screenshot 2026-09-22 191205" src="https://github.com/user-attachments/assets/d137a4f9-a3db-4c5a-8483-84f5d4d85af4" />
+
 
 
 
