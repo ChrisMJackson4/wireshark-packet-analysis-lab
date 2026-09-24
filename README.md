@@ -65,10 +65,11 @@ This analysis demonstrated how TCP establishes reliable connections before appli
 The screenshot below shows a TCP connection being established using the three-way handshake. The client sends a SYN packet, the server responds with SYN-ACK, and the client completes the handshake with an ACK.
 
 This connection was established over TCP port 443 before TLS-encrypted communication began.
-<img width="1247" height="860" alt="Screenshot 2026-09-23 172807" src="https://github.com/user-attachments/assets/ea1e9643-862b-4588-9e65-b40f3b450157" />
 
 
 
+
+<img width="987" height="625" alt="image" src="https://github.com/user-attachments/assets/90d5ac2d-89fa-460a-9dbf-2e21be871e47" />
 
 ## HTTPS/TLS Analysis
 Using the `tls` display filter in Wireshark, I observed encrypted HTTPS traffic between my computer and remote web servers.
